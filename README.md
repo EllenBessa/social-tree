@@ -2,16 +2,16 @@
 
 <p align="center"> Desafio do discover, promovido pela Rocketseat para ensino de tecnologias WEB. </p>
 
-<p>
+<p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>
 </p>
 
 <br>
 
 <p align="center">
-  <img scr=".github/capa.png" alt="Social Tree" width="100%"/>
+  <img scr="./.github/capa.jpg" alt="Social Tree" width="100%"/>
 </p>
 
 ## 🚀 Tecnologias
