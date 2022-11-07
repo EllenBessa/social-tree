@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img scr=".github/capa.jpg" alt="Social Tree" width="100%"/>
+  <img src=".github/capa.jpg" alt="Social Tree" width="100%"/>
 </p>
 
 ## 🚀 Tecnologias
